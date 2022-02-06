@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm  MЯ P∆Я∆ÐӨX🚬†</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MRxParadox" alt="MRxParadox" /></a> </p>
+<h1 align="center">Hi I'm  MЯ P∆Я∆ÐӨX🚬†</h1>
 
 - 🔭 I’m currently working on **PYTHON**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MRxParadox&show_icons=true&locale=en&layout=compact" alt="MRxParadox" /></p>
